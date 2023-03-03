@@ -1,0 +1,82 @@
+{
+    "workbench.statusBar.visible": false,
+    "workbench.activityBar.visible": false,
+    "git.enabled": false,
+    "editor.renderLineHighlight": "none",
+    "breadcrumbs.enabled": false,
+    "editor.minimap.enabled": false,
+    "editor.detectIndentation": false,
+    "explorer.confirmDelete": false,
+    "editor.guides.highlightActiveIndentation": false,
+    "explorer.confirmDragAndDrop": false,
+    "workbench.startupEditor": "none",
+    "editor.semanticHighlighting.enabled": false,
+    "editor.occurrencesHighlight": false,
+    "workbench.colorTheme": "Black on Light Gray",
+    "workbench.iconTheme": "vs-minimal",
+    "workbench.tree.renderIndentGuides": "none",
+    "editor.matchBrackets": "never",
+    "editor.bracketPairColorization.enabled": false,
+    "window.commandCenter": false,
+    "elixirLS.suggestSpecs": false,
+    "window.zoomLevel": 2,
+    "go.toolsManagement.autoUpdate": true,
+    "editor.unicodeHighlight.allowedCharacters": {
+        " ": true
+    },
+    "workbench.colorCustomizations": {
+        // tab space
+        "tab.activeBackground": "#a3a3a3",
+        "tab.inactiveBackground": "#aaaaaa",
+        "tab.border": "#a3a3a3",
+        "tab.activeForeground": "#000000",
+        "editorGroupHeader.tabsBackground": "#aaaaaa",
+        "scrollbar.shadow": "#a3a3a300",
+        "editorGroupHeader.tabsBorder": "#a3a3a300",
+        "tab.hoverForeground": "#000000",
+
+        // EDITOR
+        // editor
+        "editor.background": "#a3a3a3",
+        "editor.foreground": "#000000",
+        "editor.selectionBackground": "#aaaaaa",
+        "editor.selectionHighlightBackground": "#aaaaaa",
+
+        // line number
+        "editorLineNumber.foreground": "#808080",
+        "editorLineNumber.activeForeground": "#000000",
+
+        // indent guide
+        "editorIndentGuide.background": "#aaaaaa",
+
+        // suggets
+        "editorSuggestWidget.background": "#aaaaaa",
+        "editorSuggestWidget.border": "#aaaaaa",
+
+        // cursor
+        "editorCursor.background": "#aaaaaa",
+        "editorCursor.foreground": "#469748",
+
+        // FILE TREE
+        "sideBar.background": "#aaaaaa",
+        "list.activeSelectionBackground": "#a3a3a3",
+        "list.focusOutline": "#a3a3a3",
+        "list.focusForeground": "#000000",
+        "list.hoverForeground": "#000000",
+        "list.activeSelectionForeground": "#000000",
+        "list.inactiveSelectionBackground": "#a3a3a3",
+        "list.inactiveSelectionForeground": "#000000",
+        "list.hoverBackground": "#00000000",
+
+        // MENU
+        "input.background": "#aaaaaa",
+        "dropdown.background": "#aaaaaa",
+    },
+    "editor.tokenColorCustomizations": {
+        "[Black on Light Gray]": {
+            "comments": "#707070",
+        }
+    },
+    "editor.renderWhitespace": "none",
+    "editor.cursorStyle": "block",
+}
