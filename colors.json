@@ -1,0 +1,10 @@
+{
+    "Target": "C:/Users/kolu/AppData/Roaming/Code/User/settings.json",
+    "Colors": {
+        "BackgroundDark": "#a3a3a3",
+        "BackgroundLight": "#aaaaaa",
+        "Text": "#000000",
+        "Comments": "#707070",
+        "Cursor": "#469748"
+    }
+}
