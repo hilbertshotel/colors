@@ -24,7 +24,7 @@ const SETTINGS = `{
     "window.zoomLevel": 2,
     "go.toolsManagement.autoUpdate": true,
     "editor.renderWhitespace": "none",
-    "editor.cursorStyle": "block",
+    "editor.cursorStyle": "line",
     "telemetry.telemetryLevel": "off",
     "editor.unicodeHighlight.allowedCharacters": {
         " ": true
@@ -52,6 +52,7 @@ const SETTINGS = `{
 
         "editorSuggestWidget.background": "{{ .BackgroundLight }}",
         "editorSuggestWidget.border": "{{ .BackgroundLight }}",
+		"editorHoverWidget.background": "{{ .BackgroundLight }}",
 
         "editorCursor.background": "{{ .BackgroundLight }}",
         "editorCursor.foreground": "{{ .Cursor }}",
